@@ -1,0 +1,1 @@
+export const BASE_URL="https://itunes.apple.com/";  // This is api base url for whole app
