@@ -20,7 +20,7 @@ function SplashScreen() {
       source={require("../../assets/AdobeStock_100000042-e1563305717660-686x371.jpeg")}
     >
       <View style={style.childview}>
-        <Text style={style.text}>Welcome to Crown stack</Text>
+        <Text style={style.text}>Welcome to Akash tyagi</Text>
       </View>
       <View style={{justifyContent:'flex-end',alignItems:'flex-end',marginRight:30,marginBottom:30}}>
       <AntDesign name="rightcircle" size={30} color="black" onPress={()=>{navigation.navigate("songslist")}}/>
